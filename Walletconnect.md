@@ -1,0 +1,234 @@
+# WalletConnect Pay Docs
+
+> Documentation for WalletConnect Pay. Integrate secure crypto payments into your app with step-by-step guides, APIs, and best practices.
+
+- [WalletConnect Documentation](https://docs.walletconnect.com/index.md): The Connectivity Layer for the Financial Internet
+- [WalletConnect Wallet SDK](https://docs.walletconnect.com/wallets/overview.md)
+- [Verify API](https://docs.walletconnect.com/wallets/features/verify.md)
+- [Link Mode](https://docs.walletconnect.com/wallets/features/link-mode.md)
+- [One-Click Auth](https://docs.walletconnect.com/wallets/features/one-click-auth.md)
+- [Chain Support](https://docs.walletconnect.com/wallets/chains/overview.md)
+- [Ethereum](https://docs.walletconnect.com/wallets/chains/evm.md): Overview of the Ethereum JSON-RPC methods supported by Wallet SDK.
+- [Solana](https://docs.walletconnect.com/wallets/chains/solana.md): Overview of the Solana JSON-RPC methods supported by Wallet SDK.
+- [Bitcoin](https://docs.walletconnect.com/wallets/chains/bitcoin.md): Bitcoin JSON-RPC methods supported by Wallet SDK.
+- [Sui](https://docs.walletconnect.com/wallets/chains/sui.md): Overview of the Sui JSON-RPC methods supported by Wallet SDK.
+- [Stacks](https://docs.walletconnect.com/wallets/chains/stacks.md): Overview of the Stacks JSON-RPC methods supported by Wallet SDK.
+- [TON](https://docs.walletconnect.com/wallets/chains/ton.md): Overview of the TON JSON-RPC methods supported by Wallet SDK.
+- [Tron](https://docs.walletconnect.com/wallets/chains/tron.md): Tron JSON-RPC Methods
+- [ADI Chain](https://docs.walletconnect.com/wallets/chains/adi.md): Overview of ADI Chain integration with Wallet SDK.
+- [Canton](https://docs.walletconnect.com/wallets/chains/canton.md): Overview of the Canton JSON-RPC methods supported by Wallet SDK.
+- [Stellar](https://docs.walletconnect.com/wallets/chains/stellar.md): Overview of the Stellar JSON-RPC methods supported by Wallet SDK.
+- [WalletGuide Submission](https://docs.walletconnect.com/wallets/walletguide/submit-wallet.md)
+- [Wallets](https://docs.walletconnect.com/wallets/walletguide/wallet-list.md)
+- [Chain Onboarding](https://docs.walletconnect.com/wallets/walletguide/submit-chain.md)
+- [Supported Chains](https://docs.walletconnect.com/wallets/walletguide/chain-list.md)
+- [Explorer API](https://docs.walletconnect.com/wallets/walletguide/explorer-api.md)
+- [WalletConnect Certified](https://docs.walletconnect.com/wallets/walletguide/certified.md): The WalletConnect Certified program, its requirements by season, and how to apply.
+- [Best Practices for Wallets](https://docs.walletconnect.com/wallets/more/best-practices.md)
+- [Staying up to date](https://docs.walletconnect.com/wallets/more/updating-wallet-sdk.md)
+- [Upgrade from Web3Wallet to Reown WalletKit](https://docs.walletconnect.com/wallets/more/web3wallet-migration/quickstart.md)
+- [Upgrade from Web3Wallet to WalletKit for Web](https://docs.walletconnect.com/wallets/more/web3wallet-migration/web.md)
+- [Upgrade from Web3Wallet to WalletKit for React Native](https://docs.walletconnect.com/wallets/more/web3wallet-migration/react-native.md)
+- [Upgrade from Web3Wallet to WalletKit for Flutter](https://docs.walletconnect.com/wallets/more/web3wallet-migration/flutter.md)
+- [Upgrade from Web3Wallet to WalletKit for Android](https://docs.walletconnect.com/wallets/more/web3wallet-migration/android.md)
+- [Upgrade from Web3Wallet to WalletKit for iOS](https://docs.walletconnect.com/wallets/more/web3wallet-migration/ios.md)
+- [Upgrade from Web3Wallet to WalletKit for .NET](https://docs.walletconnect.com/wallets/more/web3wallet-migration/unity.md)
+- [WalletConnect for Custodians and Institutions](https://docs.walletconnect.com/wallets/custodians/overview.md)
+- [How to Control Which Apps Can Connect to Your Users’ Wallets](https://docs.walletconnect.com/wallets/custodians/app-access-control.md)
+- [How to Control Which Smart Contracts Your Users Can Interact With](https://docs.walletconnect.com/wallets/custodians/contract-access-control.md)
+- [Extended WalletConnect Sessions Request](https://docs.walletconnect.com/wallets/custodians/extended-sessions.md)
+- [Installation](https://docs.walletconnect.com/wallets/web/installation.md)
+- [Usage](https://docs.walletconnect.com/wallets/web/usage.md)
+- [One-click Auth](https://docs.walletconnect.com/wallets/web/one-click-auth.md)
+- [Verify API](https://docs.walletconnect.com/wallets/web/verify.md)
+- [Wallet Call API](https://docs.walletconnect.com/wallets/web/eip5792.md)
+- [Chain Abstraction](https://docs.walletconnect.com/wallets/web/chain-abstraction.md)
+- [Best Practices](https://docs.walletconnect.com/wallets/web/best-practices.md)
+- [Resources](https://docs.walletconnect.com/wallets/web/resources.md)
+- [Explorer Submission](https://docs.walletconnect.com/wallets/web/cloud/explorer-submission.md)
+- [Relay](https://docs.walletconnect.com/wallets/web/cloud/relay.md)
+- [Analytics](https://docs.walletconnect.com/wallets/web/cloud/analytics.md)
+- [Installation](https://docs.walletconnect.com/wallets/android/installation.md)
+- [Usage](https://docs.walletconnect.com/wallets/android/usage.md)
+- [One-click Auth](https://docs.walletconnect.com/wallets/android/one-click-auth.md)
+- [Mobile Linking](https://docs.walletconnect.com/wallets/android/mobile-linking.md)
+- [Link Mode](https://docs.walletconnect.com/wallets/android/link-mode.md)
+- [Verify API](https://docs.walletconnect.com/wallets/android/verify.md)
+- [Wallet Call API](https://docs.walletconnect.com/wallets/android/eip5792.md)
+- [Chain Abstraction](https://docs.walletconnect.com/wallets/android/chain-abstraction.md)
+- [Best Practices](https://docs.walletconnect.com/wallets/android/best-practices.md)
+- [Resources](https://docs.walletconnect.com/wallets/android/resources.md)
+- [Explorer Submission](https://docs.walletconnect.com/wallets/android/cloud/explorer-submission.md)
+- [Relay](https://docs.walletconnect.com/wallets/android/cloud/relay.md)
+- [Analytics](https://docs.walletconnect.com/wallets/android/cloud/analytics.md)
+- [Installation](https://docs.walletconnect.com/wallets/ios/installation.md)
+- [Usage](https://docs.walletconnect.com/wallets/ios/usage.md)
+- [One-click Auth](https://docs.walletconnect.com/wallets/ios/one-click-auth.md)
+- [Mobile Linking](https://docs.walletconnect.com/wallets/ios/mobile-linking.md)
+- [Link Mode](https://docs.walletconnect.com/wallets/ios/link-mode.md)
+- [Verify API](https://docs.walletconnect.com/wallets/ios/verify.md)
+- [Wallet Call API](https://docs.walletconnect.com/wallets/ios/eip5792.md)
+- [Chain Abstraction](https://docs.walletconnect.com/wallets/ios/chain-abstraction.md)
+- [Best Practices](https://docs.walletconnect.com/wallets/ios/best-practices.md)
+- [Resources](https://docs.walletconnect.com/wallets/ios/resources.md)
+- [Explorer Submission](https://docs.walletconnect.com/wallets/ios/cloud/explorer-submission.md)
+- [Relay](https://docs.walletconnect.com/wallets/ios/cloud/relay.md)
+- [Analytics](https://docs.walletconnect.com/wallets/ios/cloud/analytics.md)
+- [Installation](https://docs.walletconnect.com/wallets/flutter/installation.md)
+- [Usage](https://docs.walletconnect.com/wallets/flutter/usage.md)
+- [One-click Auth](https://docs.walletconnect.com/wallets/flutter/one-click-auth.md)
+- [Mobile Linking](https://docs.walletconnect.com/wallets/flutter/mobile-linking.md)
+- [Link Mode](https://docs.walletconnect.com/wallets/flutter/link-mode.md)
+- [Verify API](https://docs.walletconnect.com/wallets/flutter/verify.md)
+- [Wallet Call API](https://docs.walletconnect.com/wallets/flutter/eip5792.md)
+- [Chain Abstraction](https://docs.walletconnect.com/wallets/flutter/chain-abstraction.md)
+- [Explorer Submission](https://docs.walletconnect.com/wallets/flutter/cloud/explorer-submission.md)
+- [Relay](https://docs.walletconnect.com/wallets/flutter/cloud/relay.md)
+- [Analytics](https://docs.walletconnect.com/wallets/flutter/cloud/analytics.md)
+- [Installation](https://docs.walletconnect.com/wallets/react-native/installation.md)
+- [Usage](https://docs.walletconnect.com/wallets/react-native/usage.md)
+- [One-click Auth](https://docs.walletconnect.com/wallets/react-native/one-click-auth.md)
+- [Mobile Linking](https://docs.walletconnect.com/wallets/react-native/mobile-linking.md)
+- [Link Mode](https://docs.walletconnect.com/wallets/react-native/link-mode.md)
+- [Verify API](https://docs.walletconnect.com/wallets/react-native/verify.md)
+- [Wallet Call API](https://docs.walletconnect.com/wallets/react-native/eip5792.md)
+- [Chain Abstraction](https://docs.walletconnect.com/wallets/react-native/chain-abstraction.md)
+- [Best Practices](https://docs.walletconnect.com/wallets/react-native/best-practices.md)
+- [Resources](https://docs.walletconnect.com/wallets/react-native/resources.md)
+- [Explorer Submission](https://docs.walletconnect.com/wallets/react-native/cloud/explorer-submission.md)
+- [Relay](https://docs.walletconnect.com/wallets/react-native/cloud/relay.md)
+- [Analytics](https://docs.walletconnect.com/wallets/react-native/cloud/analytics.md)
+- [Installation](https://docs.walletconnect.com/wallets/c-sharp/installation.md)
+- [Usage](https://docs.walletconnect.com/wallets/c-sharp/usage.md)
+- [Verify API](https://docs.walletconnect.com/wallets/c-sharp/verify.md)
+- [Explorer Submission](https://docs.walletconnect.com/wallets/c-sharp/cloud/explorer-submission.md)
+- [Relay](https://docs.walletconnect.com/wallets/c-sharp/cloud/relay.md)
+- [Analytics](https://docs.walletconnect.com/wallets/c-sharp/cloud/analytics.md)
+- [WalletConnect for Apps](https://docs.walletconnect.com/apps/overview.md)
+- [Installation](https://docs.walletconnect.com/apps/react/installation.md)
+- [Installation](https://docs.walletconnect.com/apps/next/installation.md)
+- [Installation](https://docs.walletconnect.com/apps/vue/installation.md)
+- [Installation](https://docs.walletconnect.com/apps/javascript/installation.md)
+- [TON Connect WalletConnect Integration](https://docs.walletconnect.com/wallets/guides/tonconnect-walletconnect.md): Learn how to enable WalletConnect support in your TON Connect application.
+- [Network](https://docs.walletconnect.com/network/index.md)
+- [Service Nodes](https://docs.walletconnect.com/network/service-nodes.md)
+- [Wallets](https://docs.walletconnect.com/network/wallets.md)
+- [WCT Token](https://docs.walletconnect.com/network/WCT-token/overview.md)
+- [Rewards](https://docs.walletconnect.com/network/WCT-token/rewards.md)
+- [Service Node Rewards](https://docs.walletconnect.com/network/WCT-token/service-node-rewards.md)
+- [WCT Staking](https://docs.walletconnect.com/network/WCT-token/staking.md)
+- [Governance](https://docs.walletconnect.com/network/WCT-token/governance.md)
+- [WCT Smart Contracts](https://docs.walletconnect.com/network/WCT-token/contracts.md)
+- [FAQ](https://docs.walletconnect.com/network/WCT-token/faq.md)
+- [WalletConnect Specs](https://docs.walletconnect.com/network/specs.md)
+- [WalletConnect Pay Documentation](https://docs.walletconnect.com/payments/overview.md): Documentation for WalletConnect Pay. Integrate secure crypto payments into your app with step-by-step guides, APIs, and best practices.
+- [How to Pay with WalletConnect Pay](https://docs.walletconnect.com/payments/for-users.md)
+- [Token and Chain Coverage](https://docs.walletconnect.com/payments/token-and-chain-coverage.md): Tokens and blockchains supported in General Availability within WalletConnect Pay, including acceptance and settlement options.
+- [Fiat Coverage](https://docs.walletconnect.com/payments/fiat-coverage.md): Fiat currencies supported by WalletConnect Pay for offramp settlement, with detail on how additional corridors are enabled.
+- [Wallet Coverage](https://docs.walletconnect.com/payments/wallet-coverage.md)
+- [CEX Exchange Integrations](https://docs.walletconnect.com/payments/cex-coverage.md): Centralized exchanges supported by WalletConnect Pay, enabling users to pay directly from their CEX account balance.
+- [Test mode](https://docs.walletconnect.com/payments/test-mode.md): Integrate and verify your WalletConnect Pay setup end to end without moving real funds.
+- [Webhooks](https://docs.walletconnect.com/payments/webhooks.md): Get notified in real time as payments move through their lifecycle.
+- [Webhook event reference](https://docs.walletconnect.com/payments/webhook-event-reference.md): Field-level reference for the payment webhook payload: the envelope, the payment snapshot, and each stage object.
+- [payment.created](https://docs.walletconnect.com/payments/webhook-events/payment-created.md): A payment was created and awaits buyer action. Payload reference and example for the payment.created webhook event.
+- [payment.processing](https://docs.walletconnect.com/payments/webhook-events/payment-processing.md): The buyer committed to a payment option and the payment started processing. Payload reference and example for the payment.processing webhook event.
+- [payment.succeeded](https://docs.walletconnect.com/payments/webhook-events/payment-succeeded.md): The payment succeeded. Payload reference and example for the payment.succeeded webhook event.
+- [payment.failed](https://docs.walletconnect.com/payments/webhook-events/payment-failed.md): The payment failed. Payload reference and example for the payment.failed webhook event.
+- [payment.expired](https://docs.walletconnect.com/payments/webhook-events/payment-expired.md): The payment expired before completing. Payload reference and example for the payment.expired webhook event.
+- [payment.cancelled](https://docs.walletconnect.com/payments/webhook-events/payment-cancelled.md): The payment was cancelled. Payload reference and example for the payment.cancelled webhook event.
+- [payment.settled](https://docs.walletconnect.com/payments/webhook-events/payment-settled.md): Merchant settlement completed for a succeeded payment. Payload reference and example for the payment.settled webhook event.
+- [WalletConnect Pay for PSPs](https://docs.walletconnect.com/payments/psps/overview.md)
+- [Headless SDK](https://docs.walletconnect.com/payments/psps/headless-sdk/overview.md)
+- [How it works](https://docs.walletconnect.com/payments/psps/headless-sdk/how-it-works.md)
+- [Implementation](https://docs.walletconnect.com/payments/psps/headless-sdk/implementation.md)
+- [Packages Reference](https://docs.walletconnect.com/payments/psps/headless-sdk/packages-reference.md)
+- [Quickstart](https://docs.walletconnect.com/payments/merchant/quickstart.md): Go from zero to your first payment with the WalletConnect Pay Merchant API in six steps.
+- [Merchant logo specification](https://docs.walletconnect.com/payments/merchant-api/logo-specification.md): Required dimensions, formats, and file size for the iconUrl field on the Merchant API.
+- [WalletConnect Pay - Wallet Integration](https://docs.walletconnect.com/payments/wallets/overview.md)
+- [WalletConnect Pay SDK - Kotlin](https://docs.walletconnect.com/payments/wallets/standalone/kotlin.md): Integrate WalletConnect Pay into your Android wallet to enable seamless crypto payments for your users.
+- [WalletConnect Pay SDK - Swift](https://docs.walletconnect.com/payments/wallets/standalone/swift.md): Integrate WalletConnect Pay into your iOS wallet to enable seamless crypto payments for your users.
+- [WalletConnect Pay SDK - React Native](https://docs.walletconnect.com/payments/wallets/standalone/react-native.md): Integrate WalletConnect Pay into your React Native wallet to enable seamless crypto payments for your users.
+- [WalletConnect Pay SDK - Flutter](https://docs.walletconnect.com/payments/wallets/standalone/flutter.md): Integrate WalletConnect Pay into your Flutter wallet to enable seamless crypto payments for your users.
+- [WalletConnect Pay SDK - Web/Node.js](https://docs.walletconnect.com/payments/wallets/standalone/web.md): Integrate WalletConnect Pay into your Web/Node.js wallet to enable seamless crypto payments for your users.
+- [WalletConnect Pay via WalletKit - Kotlin](https://docs.walletconnect.com/payments/wallets/walletkit/kotlin.md): Integrate WalletConnect Pay through WalletKit for a unified payment experience in your Android wallet.
+- [WalletConnect Pay via WalletKit - Swift](https://docs.walletconnect.com/payments/wallets/walletkit/swift.md): Integrate WalletConnect Pay through WalletKit for a unified payment experience in your iOS wallet.
+- [WalletConnect Pay via WalletKit - React Native](https://docs.walletconnect.com/payments/wallets/walletkit/react-native.md): Integrate WalletConnect Pay through WalletKit for a unified payment experience in your React Native wallet.
+- [WalletConnect Pay via WalletKit - Flutter](https://docs.walletconnect.com/payments/wallets/walletkit/flutter.md): Integrate WalletConnect Pay through WalletKit for a unified payment experience in your Flutter wallet.
+- [WalletConnect Pay via WalletKit - Web/Node.js](https://docs.walletconnect.com/payments/wallets/walletkit/web.md): Integrate WalletConnect Pay through WalletKit for a unified payment experience in your Web/Node.js wallet.
+- [API-first integration (Non-SDK wallets)](https://docs.walletconnect.com/payments/wallets/api-first.md): Integrate WalletConnect Pay in a wallet without an SDK, using the Gateway API.
+- [Tap to Pay - Wallet Integration Guide](https://docs.walletconnect.com/payments/wallets/tap-to-pay.md): Integrate Tap to Pay into your wallet app to enable contactless payments at POS terminals using WalletConnect Pay.
+- [Buyer Experience — WebView Integration](https://docs.walletconnect.com/payments/wallets/webview.md): Embed the WalletConnect Pay checkout UI inside a native WebView so users complete payments without leaving your app.
+- [Token & Chain Support](https://docs.walletconnect.com/payments/wallets/token-chain-support.md): Guides for implementing specific token and blockchain support in your WalletConnect Pay wallet integration.
+- [USDT Support](https://docs.walletconnect.com/payments/wallets/token-chain-support/usdt-support.md): Implement the two-action Permit2 flow your wallet needs to accept USDT and other ERC-20s without native typed-data authorization.
+- [Solana Support](https://docs.walletconnect.com/payments/wallets/token-chain-support/solana-support.md): Implement Solana payment capabilities in your wallet including native SOL transactions and mixed-chain payment options.
+- [Tron Support](https://docs.walletconnect.com/payments/wallets/token-chain-support/tron-support.md): Implement Tron (USDT TRC-20) payment capabilities in your wallet: advertise Tron accounts, sign the gateway-built transaction verbatim, and return the signed result as an object.
+- [WalletConnect Pay for Ecommerce and Online Checkout](https://docs.walletconnect.com/payments/ecommerce/overview.md): Add crypto and stablecoin payments to your online checkout with a single API integration.
+- [Online Checkout Integration Guide](https://docs.walletconnect.com/payments/ecommerce/integration.md): Step-by-step guide to integrate WalletConnect Pay into your ecommerce checkout flow.
+- [Merchant API Reference](https://docs.walletconnect.com/payments/ecommerce/api-reference.md): API reference for the WalletConnect Pay Merchant API used in ecommerce checkout integrations.
+- [WalletConnect Agents SDK](https://docs.walletconnect.com/agents/overview.md)
+- [API Reference](https://docs.walletconnect.com/payments/api-reference/index.md): Reference for the WalletConnect Pay API.
+- [Authentication](https://docs.walletconnect.com/payments/api-reference/authentication.md): Authenticate requests to the WalletConnect Pay API with API keys.
+- [API Versioning](https://docs.walletconnect.com/payments/api-reference/versioning.md): How the WalletConnect Pay API is versioned using date-based versions, account pinning, and preview releases.
+- [Get a payment](https://docs.walletconnect.com/payments/api-reference/2026-02-18/get-v1-gateway-payment-id.md): This endpoint returns only basic information to display to the user to begin the payment flow.
+- [POST /v1/gateway/payment/{id}/cancel](https://docs.walletconnect.com/payments/api-reference/2026-02-18/post-v1-gateway-payment-id-cancel.md)
+- [Confirm a payment](https://docs.walletconnect.com/payments/api-reference/2026-02-18/post-v1-gateway-payment-id-confirm.md): This endpoint confirms a payment and submits it to the blockchain for processing.
+- [Fetches an action](https://docs.walletconnect.com/payments/api-reference/2026-02-18/post-v1-gateway-payment-id-fetch.md): This endpoint fetches an action for a payment.
+- [Get payment options](https://docs.walletconnect.com/payments/api-reference/2026-02-18/post-v1-gateway-payment-id-options.md): This endpoint takes a list of accounts and returns a list of options that can be used to complete the payment.
+- [Get the payment status](https://docs.walletconnect.com/payments/api-reference/2026-02-18/get-v1-gateway-payment-id-status.md): Retrieves the status of a payment by its ID. Returns a polling delay to wait before checking the status again.
+- [Create a new payment](https://docs.walletconnect.com/payments/api-reference/2026-02-18/post-v1-payments.md): Creates a new payment with the provided payment details.
+- [List payments](https://docs.walletconnect.com/payments/api-reference/2026-02-18/get-v1-payments.md): Retrieve paginated payments with optional filters.
+- [Get payment details](https://docs.walletconnect.com/payments/api-reference/2026-02-18/get-v1-payments-id.md): Retrieves the full details of a payment by its ID, including settlement information when available.
+- [POST /v1/payments/{id}/cancel](https://docs.walletconnect.com/payments/api-reference/2026-02-18/post-v1-payments-id-cancel.md)
+- [Get the payment status](https://docs.walletconnect.com/payments/api-reference/2026-02-18/get-v1-payments-id-status.md): Retrieves the status of a payment by its ID. Returns a polling delay to wait before checking the status again.
+- [Mark a payment as refunded](https://docs.walletconnect.com/payments/api-reference/2026-02-18/post-v1-refunds.md): Request a full refund for a payment. Calling a second time on the same payment returns 409.
+- [List payments for a merchant](https://docs.walletconnect.com/payments/api-reference/2026-02-18/get-v1-merchants-payments.md): Retrieve paginated payments with optional filters.
+- [Create a merchant](https://docs.walletconnect.com/payments/api-reference/2026-02-18/post-v1-merchants.md): Create a new merchant under the authenticated partner. Requires an `Idempotency-Key` header so retries safely return the originally-created merchant rather than creating duplicates.
+- [List merchants](https://docs.walletconnect.com/payments/api-reference/2026-02-18/get-v1-merchants.md): List the partner's merchants. Supports filtering by `status`, free-text `search` over name and ID, and cursor-based pagination via `cursor` and `limit`.
+- [Get a merchant](https://docs.walletconnect.com/payments/api-reference/2026-02-18/get-v1-merchants-merchantid.md): Fetch a merchant's profile along with its configured `settlements` (crypto and fiat). Crypto settlements use [CAIP-19](https://chainagnostic.org/CAIPs/caip-19) asset IDs and [CAIP-10](https://chainagnostic.org/CAIPs/caip-10) destination accounts.
+- [Update a merchant](https://docs.walletconnect.com/payments/api-reference/2026-02-18/patch-v1-merchants-merchantid.md): Update a merchant's profile. At least one of `merchantName`, `merchantEmail`, or `iconUrl` must be provided. Pass `iconUrl: null` to unset the existing logo.
+- [Delete a merchant](https://docs.walletconnect.com/payments/api-reference/2026-02-18/delete-v1-merchants-merchantid.md): Soft-delete a merchant. The merchant is hidden from listings and can no longer accept new payments. Already-deleted merchants return `deleted: true` so the call is idempotent.
+- [List settlements](https://docs.walletconnect.com/payments/api-reference/2026-02-18/get-v1-merchants-merchantid-settlements.md): List the merchant's configured fiat and crypto settlement destinations.
+- [Create crypto settlements](https://docs.walletconnect.com/payments/api-reference/2026-02-18/post-v1-merchants-merchantid-settlements-crypto.md): Register one or more crypto settlement destinations for the merchant. Each entry pairs a [CAIP-19](https://chainagnostic.org/CAIPs/caip-19) `asset` with a [CAIP-10](https://chainagnostic.org/CAIPs/caip-10) `destination` wallet on the same chain. Each `(merchant, asset)` pair must be unique — registe…
+- [Update a crypto settlement destination](https://docs.walletconnect.com/payments/api-reference/2026-02-18/put-v1-merchants-merchantid-settlements-crypto-id.md): Change the destination wallet for an existing crypto settlement. The new `destination` must be a [CAIP-10](https://chainagnostic.org/CAIPs/caip-10) account on the same chain as the settlement's `asset`.
+- [Delete a crypto settlement](https://docs.walletconnect.com/payments/api-reference/2026-02-18/delete-v1-merchants-merchantid-settlements-crypto-id.md): Remove a crypto settlement. Future payments in the deleted asset will no longer be auto-settled.
+- [Get payments for a merchant](https://docs.walletconnect.com/payments/api-reference/2026-02-18/get-v1-merchants-merchant-id-payments.md): **Deprecated:** Use `GET /v1/merchants/payments` with partner `api-key` and `merchant-id` headers instead.
+- [API Reference](https://docs.walletconnect.com/payments/api-reference/index.md): Reference for the WalletConnect Pay API.
+- [Authentication](https://docs.walletconnect.com/payments/api-reference/authentication.md): Authenticate requests to the WalletConnect Pay API with API keys.
+- [API Versioning](https://docs.walletconnect.com/payments/api-reference/versioning.md): How the WalletConnect Pay API is versioned using date-based versions, account pinning, and preview releases.
+- [Get a payment](https://docs.walletconnect.com/payments/api-reference/2026-02-19.preview/get-v1-gateway-payment-id.md): This endpoint returns only basic information to display to the user to begin the payment flow.
+- [POST /v1/gateway/payment/{id}/cancel](https://docs.walletconnect.com/payments/api-reference/2026-02-19.preview/post-v1-gateway-payment-id-cancel.md)
+- [Confirm a payment](https://docs.walletconnect.com/payments/api-reference/2026-02-19.preview/post-v1-gateway-payment-id-confirm.md): This endpoint confirms a payment and submits it to the blockchain for processing.
+- [Fetches an action](https://docs.walletconnect.com/payments/api-reference/2026-02-19.preview/post-v1-gateway-payment-id-fetch.md): This endpoint fetches an action for a payment.
+- [Get payment options](https://docs.walletconnect.com/payments/api-reference/2026-02-19.preview/post-v1-gateway-payment-id-options.md): This endpoint takes a list of accounts and returns a list of options that can be used to complete the payment.
+- [Get the payment status](https://docs.walletconnect.com/payments/api-reference/2026-02-19.preview/get-v1-gateway-payment-id-status.md): Retrieves the status of a payment by its ID. Returns a polling delay to wait before checking the status again.
+- [Create a new payment](https://docs.walletconnect.com/payments/api-reference/2026-02-19.preview/post-v1-payments.md): Creates a new payment with the provided payment details.
+- [List payments](https://docs.walletconnect.com/payments/api-reference/2026-02-19.preview/get-v1-payments.md): Retrieve paginated payments with optional filters.
+- [Get payment details](https://docs.walletconnect.com/payments/api-reference/2026-02-19.preview/get-v1-payments-id.md): Retrieves the full details of a payment by its ID, including settlement information when available.
+- [POST /v1/payments/{id}/cancel](https://docs.walletconnect.com/payments/api-reference/2026-02-19.preview/post-v1-payments-id-cancel.md)
+- [Get the payment status](https://docs.walletconnect.com/payments/api-reference/2026-02-19.preview/get-v1-payments-id-status.md): Retrieves the status of a payment by its ID. Returns a polling delay to wait before checking the status again.
+- [Mark a payment as refunded](https://docs.walletconnect.com/payments/api-reference/2026-02-19.preview/post-v1-refunds.md): Request a full refund for a payment. Calling a second time on the same payment returns 409.
+- [List payments for a merchant](https://docs.walletconnect.com/payments/api-reference/2026-02-19.preview/get-v1-merchants-payments.md): Retrieve paginated payments with optional filters.
+- [Create a merchant](https://docs.walletconnect.com/payments/api-reference/2026-02-19.preview/post-v1-merchants.md): Create a new merchant under the authenticated partner. Requires an `Idempotency-Key` header so retries safely return the originally-created merchant rather than creating duplicates.
+- [List merchants](https://docs.walletconnect.com/payments/api-reference/2026-02-19.preview/get-v1-merchants.md): List the partner's merchants. Supports filtering by `status`, free-text `search` over name and ID, and cursor-based pagination via `cursor` and `limit`.
+- [Get a merchant](https://docs.walletconnect.com/payments/api-reference/2026-02-19.preview/get-v1-merchants-merchantid.md): Fetch a merchant's profile along with its configured `settlements` (crypto and fiat). Crypto settlements use [CAIP-19](https://chainagnostic.org/CAIPs/caip-19) asset IDs and [CAIP-10](https://chainagnostic.org/CAIPs/caip-10) destination accounts.
+- [Update a merchant](https://docs.walletconnect.com/payments/api-reference/2026-02-19.preview/patch-v1-merchants-merchantid.md): Update a merchant's profile. At least one of `merchantName`, `merchantEmail`, or `iconUrl` must be provided. Pass `iconUrl: null` to unset the existing logo.
+- [Delete a merchant](https://docs.walletconnect.com/payments/api-reference/2026-02-19.preview/delete-v1-merchants-merchantid.md): Soft-delete a merchant. The merchant is hidden from listings and can no longer accept new payments. Already-deleted merchants return `deleted: true` so the call is idempotent.
+- [List settlements](https://docs.walletconnect.com/payments/api-reference/2026-02-19.preview/get-v1-merchants-merchantid-settlements.md): List the merchant's configured fiat and crypto settlement destinations.
+- [Create crypto settlements](https://docs.walletconnect.com/payments/api-reference/2026-02-19.preview/post-v1-merchants-merchantid-settlements-crypto.md): Register one or more crypto settlement destinations for the merchant. Each entry pairs a [CAIP-19](https://chainagnostic.org/CAIPs/caip-19) `asset` with a [CAIP-10](https://chainagnostic.org/CAIPs/caip-10) `destination` wallet on the same chain. Each `(merchant, asset)` pair must be unique — registe…
+- [Update a crypto settlement destination](https://docs.walletconnect.com/payments/api-reference/2026-02-19.preview/put-v1-merchants-merchantid-settlements-crypto-id.md): Change the destination wallet for an existing crypto settlement. The new `destination` must be a [CAIP-10](https://chainagnostic.org/CAIPs/caip-10) account on the same chain as the settlement's `asset`.
+- [Delete a crypto settlement](https://docs.walletconnect.com/payments/api-reference/2026-02-19.preview/delete-v1-merchants-merchantid-settlements-crypto-id.md): Remove a crypto settlement. Future payments in the deleted asset will no longer be auto-settled.
+- [Get payments for a merchant](https://docs.walletconnect.com/payments/api-reference/2026-02-19.preview/get-v1-merchants-merchant-id-payments.md): **Deprecated:** Use `GET /v1/merchants/payments` with partner `api-key` and `merchant-id` headers instead.
+
+## OpenAPI Specs
+
+- [2026-02-18](/api/2026-02-18.json)
+- [2026-02-19.preview](/api/2026-02-19.preview.json)
+
+## Optional
+
+- [WalletConnect](https://walletconnect.com)
+- [Blog](https://walletconnect.com/blog)
+- [Whitepaper](https://whitepaper.walletconnect.com/)
+
+
+This documentation is built and hosted on [Mintlify](https://mintlify.com), a developer documentation platform.
